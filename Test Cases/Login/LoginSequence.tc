@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>For recall on other test cases</description>
+   <name>LoginSequence</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35607d9d-4414-4ed8-9888-15715d461139</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f18b1717-b8b0-4b09-8759-bd9d319d0407</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>345e7905-ba0f-4201-b8b1-651c06a025cd</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
